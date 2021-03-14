@@ -19,7 +19,7 @@ locale                   : "en-US" # "ko-KR" https://docs.microsoft.com/en-us/pr
 title                    : "Kvector"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kvector"
+name                     : #"Kvector"
 description              : #"Kvector"
 url                      : #"https://kvectorhome.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kvector"
+  name             : "JayMo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
