@@ -97,7 +97,7 @@ author:
   name             : "kvector"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "location"
+  location         : ""
   email            : "jaymo@kvector.co.kr"
   links:
     - label: "Email"
