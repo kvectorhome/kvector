@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin    : "default"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "X-RA leader"
+title                    : "Kvector"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Jay Mo" # &name is a YAML anchor which can be *referenced later
@@ -18,8 +18,8 @@ description              : &description "X-RA for asset management and trading"
 url                      : https://kvectorhome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : #"mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"            # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/kvector_logo_90X100.jpg"    # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/500x300.png"               # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/kvector_logo_88x76.jpg"    # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #favicon                  : "/favicon.ico"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -33,7 +33,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 10 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
