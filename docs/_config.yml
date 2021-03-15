@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "contrast"  #"default" # "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kvector"
+title                    : "X-RA leader"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Jay Mo" # &name is a YAML anchor which can be *referenced later
@@ -20,8 +20,8 @@ baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : #"mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"               # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/kvector_logo_88x76.jpg"    # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-#favicon                  : "/favicon.ico"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+favicon                  : "/favicon.ico"
+masthead_title           : "Kvector"  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/kvector_logo_90X100.jpg"
+  avatar           : "/assets/images/kvector_logo_88x76.jpg"
   bio              : "X-RA leader"
   location         : "Seoul, Korea"
   links:
@@ -99,13 +99,13 @@ author:
       url: "https://kvectorhome.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kvector"
+      url: "https://twitter.com/kvectorhome"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://kvectorhome.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kvector"
+      url: "https://instagram.com/kvectorhome"
 
 
 # Site Footer
