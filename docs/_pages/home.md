@@ -16,8 +16,8 @@ excerpt: >
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Macro strategies analysis"
-    title: "Macro Strategies"
+    alt: "Global Macro strategies analysis"
+    title: "Global Macro Strategies"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row:
     
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Event-driven scenario analysis"
-    title: "Event-driven Scenario"
+    title: "Event-driven Scenarios"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
