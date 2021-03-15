@@ -10,8 +10,8 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  technology for asset management and algorithmic trading<br/>
-  #<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>
+  Technological approach for asset management and algorithmic trading<br/>
+  <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
