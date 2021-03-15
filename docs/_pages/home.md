@@ -10,12 +10,13 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  fintech for Asset-management and Algorithmic-trading<br/>
+  Asset-management and Algorithmic-trading<br/>
+  - search for house-edges<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Strategies for Portfolio"
+    alt: "Macro strategies with global database"
     title: "Strategies for Portfolio"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
@@ -23,7 +24,7 @@ feature_row:
     btn_label: "Learn more"
     
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "Trading for Asset management"
+    alt: "Event-driven scenario analysis"
     title: "Trading for Asset management"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
@@ -31,7 +32,7 @@ feature_row:
     btn_label: "Learn more"
     
   - image_path: /assets/images/mm-free-feature.png
-    alt: "Feature Engineering"
+    alt: "Feature Engineering for facotr portfolio"
     title: "Feature Engineering"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
