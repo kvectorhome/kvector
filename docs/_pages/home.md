@@ -11,7 +11,7 @@ header:
   
 excerpt: >
   fintech for Asset-management and Algorithmic-trading<br/>
-  "We help investors focus signal over noise"<br/>
+  &ldquo;We help investors focus signal over noise&rdquo;<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
