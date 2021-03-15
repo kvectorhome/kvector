@@ -10,7 +10,7 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  Advaneced X-RA service for asset-managers and professional traders<br/>
+  fintech for asset-managers and professional traders<br/>
   &ldquo;We help investors focus signal over noise&rdquo;<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
