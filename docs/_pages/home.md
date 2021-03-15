@@ -10,7 +10,7 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  Technological approach for asset management and algorithmic trading<br/>
+  technological approach for asset management and algorithmic trading<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
@@ -21,6 +21,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Trading for Asset management"
     title: "Trading for Asset management"
@@ -28,6 +29,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
   - image_path: /assets/images/mm-free-feature.png
     alt: "Feature Engineering"
     title: "Feature Engineering"
