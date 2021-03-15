@@ -10,13 +10,13 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  Asset-management and Algorithmic-trading<br/>
-  - search for house-edges<br/>
+  fintech for Asset-management and Algorithmic-trading<br/>
+  "We help investors focus signal over noise"<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Macro strategies with global database"
+    alt: "Macro strategies"
     title: "Strategies for Portfolio"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
