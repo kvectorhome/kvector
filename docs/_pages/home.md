@@ -16,7 +16,7 @@ excerpt: >
   
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Macro strategies"
+    alt: "Macro strategies analysis"
     title: "Strategies for Portfolio"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Learn more"
     
   - image_path: /assets/images/mm-free-feature.png
-    alt: "Feature Engineering for facotr portfolio"
+    alt: "Feature Engineering for factor analysis"
     title: "Feature Engineering"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
