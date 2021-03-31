@@ -136,7 +136,7 @@ And for giggles one more gallery just to make sure this works. To fill page cont
 Gallery column layout can be overrided by setting a `layout`.
 
 ```liquid
-{% raw %}{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}{% endraw %}
+{% raw %}{% include gallery id="gallery" layout="quartile" caption="This is a half gallery layout example." %}{% endraw %}
 ```
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}

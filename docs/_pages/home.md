@@ -3,41 +3,42 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/blog-cover.jpg
+  overlay_color: "#5e616c"      # color-picker
+  overlay_image: /assets/images/compare-fibre-img.jpg   #images/blog-cover.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  fintech for asset-managers and professional traders<br/>
+  과학적 사고 기반의 금융 테크놀로지에 미래가 있습니다<br/>
   &ldquo;We help investors focus signal over noise&rdquo;<br/>
+  fintech for asset-managers, professional traders & visionary players<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Global Macro strategies analysis"
-    title: "Global Macro Strategies"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/mm-now-casting.jpg
+    alt: "Now-Casting Indicators"
+    title: "Now-casting Indicators"
+    excerpt: "시그널 지표 예측 서비스를 제공합니다"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "Event-driven scenario analysis"
-    title: "Event-driven Scenarios"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/mm-global-mosaic.jpg
+    alt: "Global mosaic Scenario"
+    title: "Global mosaic Scenario"
+    excerpt: "모자이크 이론 기반의 시나리오 분석을 제공합니다"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "Feature Engineering for factor analysis"
-    title: "Feature Engineering"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/mm-feature-engineering.jpg
+    alt: "Featured-Factor Portfolio"
+    title: "Featured factor Portfolio"
+    excerpt: "재무 목적에 맞는 팩터 포트폴리오 자산배분 전략을 제공합니다"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
