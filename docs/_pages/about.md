@@ -115,13 +115,6 @@ Molecular Physics에서 컴퓨터 과학으로 도전적인 리서치 역량을 
 
 e-mail : kvector@kvector.co.kr
 
-
-- [facebook](https://facebook.com/kvectorhome)
-- [twitter](https://twitter.com/kvectorhome)
-- [instagram](https://instagram.com/kvectorhome)
-- [naver](https://naver.com/kvectorhome)
-- [daumkakao](https://daum.net/kvectorhome)
-
 ---
 
 Kvector is x-RA leader toward global presence.

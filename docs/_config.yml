@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "x-RA leader"
 title_separator          : "-"
 subtitle                 : ""
-name                     : "Jay Mo" # &name is a YAML anchor which can be *referenced later
+name                     : "Kvector" # &name is a YAML anchor which can be *referenced later
 description              : &description "X-RA for asset management and trading"
 url                      : https://kvectorhome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
