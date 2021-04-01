@@ -10,7 +10,7 @@ header:
   #    url: "/docs/quick-start-guide/"
   
 excerpt: >
-  과학적 사고 기반의 금융 테크놀로지에 미래가 있습니다<br/>
+  과학적 사고 기반의 금융 테크놀로지에 미래가 있습니다 <br/>
   <!--&ldquo;We help investors focus signal over noise&rdquo;<br/>-->
   fintech for asset-managers, professional traders & visionary players<br/>
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
