@@ -2,7 +2,7 @@
 permalink: /feature/
 title: "Featured-factor portfolio"
 header:
-  overlay_image: /assets/mm-sky-night.jpg
+  overlay_image: /assets/mm-highway.jpg
   caption: "unsplash"
   actions:
     - label: "learn more"
@@ -10,6 +10,8 @@ header:
 excerpt: "we help investors focus signal over noise"
 last_modified_at: 2021-03-03T00:00:00-00:00
 toc: true
+categories:
+  - Post
 tags:
   - service
   - feature engineering

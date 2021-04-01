@@ -2,11 +2,13 @@
 permalink: /catalog/
 title: "Service catalog"
 header:
-  overlay_image: /assets/mm-highway.jpg
+  overlay_image: /assets/mm-sky-night.jpg
   caption: "unsplash"
 excerpt: "we help investors focus signal over noise"
 last_modified_at: 2021-03-03T00:00:00-00:00
 toc: true
+categories:
+  - Post
 ---
 
 ## 로보-애널리스트(x-RA) 서비스
