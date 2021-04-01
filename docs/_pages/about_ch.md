@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "소개 : About"
+permalink: /about_ch/
+title: "介绍 : About"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"
@@ -11,19 +11,19 @@ excerpt: "we help investors focus signal over noise"
 layouts_gallery:
   - url: /assets/images/bio_simonpark_with.png
     image_path: /assets/images/bio_simonpark_with.png
-    alt: "CEO 박진홍, CFA"
+    alt: "CEO Simon Park, CFA"
     width: 100
   - url: /assets/images/bio_jaymo_with.png
     image_path: /assets/images/bio_jaymo_with.png
-    alt: "CIO 모지환, CFA"
+    alt: "CIO Jay Mo, CFA"
     width: 100
   - url: /assets/images/bio_attkang_with.png
     image_path: /assets/images/bio_attkang_with.png
-    alt: "COO 강인철, 변호사"
+    alt: "COO InCheol Kang, BAR"
     width: 100
   - url: /assets/images/bio_proflee_with.png
     image_path: /assets/images/bio_proflee_with.png
-    alt: "기술고문 이원종 교수"
+    alt: "Tech-Adviso Professor Lee"
     width: 100
     
 last_modified_at: 2021-03-03T00:00:00-00:00

@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about_jp/
 title: "소개 : About"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg

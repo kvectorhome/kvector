@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "소개 : About"
+permalink: /about_en/
+title: "About"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"
