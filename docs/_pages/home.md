@@ -16,27 +16,27 @@ excerpt: >
   <!--<small><a href="https://github.com/kvectorhome/kvectorhome/">Latest release v4.22.0</a></small>-->
   
 feature_row:
-  - image_path: /assets/mm-now-casting.jpg
-    alt: "Now-casting indicators"
-    title: "Now-casting indicators"
-    excerpt: "ML/DL 기반 시계열 예측 지표를 제공합니다"
-    url: "/docs/about/"
+  - image_path: /assets/mm-mosaic-wall.jpg
+    alt: "global-mosaic scenario"
+    title: "global-mosaic scenario"
+    excerpt: "모자이크 이론 기반의 이벤트와 시나리오 분석를 제공합니다"
+    url: /mosaic/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
-  - image_path: /assets/mm-global-mosaic.jpg
-    alt: "Global-mosaic scenario"
-    title: "Global-mosaic scenario"
-    excerpt: "모자이크 이론 기반의 이벤트와 시나리오 분석을 제공합니다"
-    url: "/docs/about/"
+  
+  - image_path: /assets/mm-now-casting.jpg
+    alt: "now-casting indicators"
+    title: "now-casting indicators"
+    excerpt: "ML/DL 기반 시계열 지표 나우-캐스팅을 제공합니다"
+    url: /now-casting/
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
   - image_path: /assets/mm-feature-engineering.jpg
-    alt: "Featured-factor portfolio"
-    title: "Featured-factor portfolio"
+    alt: "featured-factor portfolio"
+    title: "featured-factor portfolio"
     excerpt: "재무 목적에 맞는 팩터 포트폴리오 운용 전략을 제공합니다"
-    url: "/docs/about/"
+    url: /feature/
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

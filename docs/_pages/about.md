@@ -6,24 +6,24 @@ header:
   caption: "unsplash"
   actions:
     - label: "Learn more"
-      url: "https://unsplash.com"
+      url: /catalog/
 excerpt: "we help investors focus signal over noise"
 layouts_gallery:
   - url: /assets/images/bio_simonpark_with.png
     image_path: /assets/images/bio_simonpark_with.png
-    alt: "CEO 박진홍 Simon Park, CFA"
+    alt: "CEO 박진홍, CFA"
     width: 100
   - url: /assets/images/bio_jaymo_with.png
     image_path: /assets/images/bio_jaymo_with.png
-    alt: "CIO 모지환 Jay Mo, CFA"
+    alt: "CIO 모지환, CFA"
     width: 100
   - url: /assets/images/bio_attkang_with.png
     image_path: /assets/images/bio_attkang_with.png
-    alt: "COO 변호사 강인철 InCheol Kang, BAR"
+    alt: "COO 강인철, 변호사"
     width: 100
   - url: /assets/images/bio_proflee_with.png
     image_path: /assets/images/bio_proflee_with.png
-    alt: "Tech-Advisory 교수 이원종 Prof. Lee, SNU"
+    alt: "기술고문 이원종 교수"
     width: 100
     
 last_modified_at: 2021-03-03T00:00:00-00:00
@@ -87,6 +87,7 @@ toc: true
 1. 글로벌 알파 투자 및 인핸스드 베타 플레이를 위한 시계열 예측 <br/>
 2. 포트폴리오 구축/운용에 필요한 팩터 및 시나리오 분석 <br/>
 3. 재무목적 설계를 위한 자산배분 전략 <br/>
+
 
 | 특화 서비스          | 설명                                                       |
 | ------------------ | --------------------------------------------------------- |
