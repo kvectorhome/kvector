@@ -29,24 +29,22 @@ last_modified_at: 2021-03-03T00:00:00-00:00
 toc: true
 ---
 
-케이벡터 주식회사(Kvector Inc.)는 금융 현장의 베테랑과 금융투자분석 알고리즘 설계와 구현 능력을 갖춘 파트너, 
-Molecular Physics에서 컴퓨터 과학으로 도전적인 리서치 역량을 지닌 인재가 만나 
+케이벡터 주식회사(Kvector Inc.)는 금융 현장의 베테랑과 금융투자분석 알고리즘 설계와 구현 능력을 갖춘 파트너,
+Molecular Physics에서 컴퓨터 과학으로 도전적인 리서치 역량을 지닌 인재가 만나
 시장이 원하는 기술과 제품을 공급하고 글로벌 데이터베이스와 데이터 애널리틱스 기술을 기반으로
 혁신적인 금융 서비스를 제공하고 금융의 미래 가치를 창출하고자 설립된 Fin-Tech 기업입니다.
-
-------
-
-{% include gallery id="layouts_gallery" layout="quartile" caption="" %}
-
 
 
 
 ## our Vision
 
 우리는 과학적 사고 기반의 금융 테크놀로지에 미래가 있다고 믿습니다. <br/><br/>
-과학적 사고를 기반으로 비지니스를 성장시키고 그 성과를 다시 과학(Science)에 되돌려줌으로써 
+과학적 사고를 기반으로 비지니스를 성장시키고 그 성과를 다시 과학(Science)에 되돌려줌으로써
 리거시 금융 서비스를 고도화하고 서비스의 질적 향상에 기여하고자 합니다.  <br/>
 
+------
+
+{% include gallery id="layouts_gallery" layout="quartile" caption="" %}
 
 
 
@@ -71,8 +69,6 @@ Molecular Physics에서 컴퓨터 과학으로 도전적인 리서치 역량을 
 초 이하 단위로 시시각각 급변하는 정보의 격전지인 금융 시장에서 시계열의 타이밍을 고려하지 않은 데이터 분석은 무용지물일 수밖에 없습니다. 이러한 Data Analysis를 여러 다른 비즈니스를 함께 영위해야 하는 개별기업이 혼자 수행하기에는 벅찰 수밖에 없는 것입니다. Data를 대하는 자세가 앞으로는 기업의 미래를 좌우하는 핵심역량이라고 하겠습니다. <br/>
 
 우리는 Finance Market과 Science의 만남을 통해 Data Analysis 분야에서 Core Value를 창출해 낼 것이며 Data Analytics의 미래를 개척해 나갈 것입니다. <br/>
-
-
 
 
 ## Persons who work with
