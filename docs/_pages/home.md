@@ -17,26 +17,26 @@ excerpt: >
   
 feature_row:
   - image_path: /assets/mm-now-casting.jpg
-    alt: "Now-casting Indicators"
-    title: "Now-casting Indicators"
-    excerpt: "시그널 지표 예측 서비스를 제공합니다"
-    url: "/docs/configuration/"
+    alt: "Now-casting indicators"
+    title: "Now-casting indicators"
+    excerpt: "ML/DL 기반 시계열 예측 지표를 제공합니다"
+    url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
   - image_path: /assets/mm-global-mosaic.jpg
-    alt: "Global-mosaic Scenario"
-    title: "Global-mosaic Scenario"
-    excerpt: "모자이크 이론 기반의 시나리오 분석을 제공합니다"
-    url: "/docs/layouts/"
+    alt: "Global-mosaic scenario"
+    title: "Global-mosaic scenario"
+    excerpt: "모자이크 이론 기반의 이벤트와 시나리오 분석을 제공합니다"
+    url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
   - image_path: /assets/mm-feature-engineering.jpg
-    alt: "Featured-factor Portfolio"
-    title: "Featured-factor Portfolio"
-    excerpt: "재무 목적에 맞는 팩터 포트폴리오 자산배분 전략을 제공합니다"
-    url: "/docs/license/"
+    alt: "Featured-factor portfolio"
+    title: "Featured-factor portfolio"
+    excerpt: "재무 목적에 맞는 팩터 포트폴리오 운용 전략을 제공합니다"
+    url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
