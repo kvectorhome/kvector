@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
-  - image_path: /assets/mm-feature-engineering.jpg
+  - image_path: /assets/mm-server.jpg
     alt: "featured-factor portfolio"
     title: "featured-factor portfolio"
     excerpt: "재무 목적에 맞는 팩터 포트폴리오 운용 전략을 제공합니다"
