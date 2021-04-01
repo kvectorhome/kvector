@@ -3,23 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="974343e1-b28d-41eb-a6ea-be1be6c12f53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_pages/home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-cloudy-forest-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-global-money-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-keyboard-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-mosaic-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-night-earth-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-night-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-now-casting-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-rain-wall-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-tree-ring-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-tree-sky-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-twirl-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-ultrasonic-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-wall-paper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/mm-wall-paper.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/mm-wallstreet-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-03-featured-factor-portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-03-featured-factor-portfolio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-03-global-mosaic-scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-03-global-mosaic-scenario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-03-now-casting-indicators.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-03-now-casting-indicators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-03-service-catalog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-03-service-catalog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/mm-global-mosaic.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,7 @@
       <workItem from="1616927419758" duration="21980000" />
       <workItem from="1617197405034" duration="11440000" />
       <workItem from="1617279705312" duration="1291000" />
-      <workItem from="1617282103926" duration="2085000" />
+      <workItem from="1617282103926" duration="2987000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 permalink: /feature/
 title: "Featured-factor portfolio"
 header:
-  overlay_image: /assets/mm-keyboard.jpg
+  overlay_image: /assets/mm-sky-night.jpg
   caption: "unsplash"
   actions:
     - label: "learn more"
@@ -17,7 +17,7 @@ tags:
 
 ## 피처 엔지니어링 기반 팩터 포트폴리오
 
-
+고객 니즈와 목적에 따른 팩터 분석 기반의 포트폴리오 운용 전략을 제공합니다 <br/><br/><br/>
 
 
 

@@ -2,7 +2,7 @@
 permalink: /mosaic/
 title: "Global-mosaic scenario"
 header:
-  overlay_image: /assets/mm-keyboard.jpg
+  overlay_image: /assets/mm-global-currency.jpg
   caption: "unsplash"
   actions:
     - label: "learn more"
@@ -17,7 +17,7 @@ tags:
 
 ## 모자이크 이론 기반 시나리오 분석
 
-
+글로벌 시장의 다양한 이벤트와 시나리오를 분석합니다 <br/><br/><br/>
 
 
 
