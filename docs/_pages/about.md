@@ -89,18 +89,20 @@ toc: true
 3. 재무목적 설계를 위한 자산배분 전략 <br/>
 
 
-| 특화 서비스          | 설명                                                       |
-| ------------------ | --------------------------------------------------------- |
-| [Now-casting indicators][Now-casting indicators] | 글로벌 시계열 지표 예측 |
-| [Global-mosaic scenario][Global-mosaic scenario] | 모자이크 이론에 기반한 매크로 시나리오 분석      |
-| [Featured-factor portfolio][Featured-factor portfolio] | 피처 엔지니어링에 기반한 팩터 포트폴리오 자문 |
+| 특화 서비스                                            | 설명                                 |
+| ------------------------------------------------------ | ------------------------------------ |
+| [Now-casting indicators][Now-casting indicators]       | ML/DL 기반 시계열 지표 나우-캐스팅   |
+| [Global-mosaic scenario][Global-mosaic scenario]       | 모자이크 이론 기반 시나리오 분석     |
+| [Featured-factor portfolio][Featured-factor portfolio] | 피처 엔지니어링 기반 팩터 포트폴리오 |
 
-* 보다 상세한 사항은 여기([서비스 카탈로그][service-catalog])를 참조해 주세요
+* 보다 상세한 사항은 여기([서비스 카탈로그][service-catalog])를 참조해 주세요 
 
 [Now-casting indicators]: {{ "" | relative_url }}{% post_url 2021-03-03-now-casting-indicators %}
 [Global-mosaic scenario]: {{ "" | relative_url }}{% post_url 2021-03-03-global-mosaic-scenario %}
 [Featured-factor portfolio]: {{ "" | relative_url }}{% post_url 2021-03-03-featured-factor-portfolio %}
 [service-catalog]: {{ "" | relative_url }}{% post_url 2021-03-03-service-catalog %}
+
+<br/>
 
 
 <h3>Contact</h3><a href='#contact'></a>
