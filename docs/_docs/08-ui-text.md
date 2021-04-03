@@ -2,7 +2,7 @@
 title: "UI Text"
 permalink: /docs/ui-text/
 excerpt: "Text for customizing user interface elements found in the theme."
-last_modified_at: 2021-02-05T20:54:24-05:00
+last_modified_at: 2021-03-03T20:54:24-05:00
 ---
 
 Text for UI elements, `_layouts`, and `_includes` grouped together as a set of translation keys. This is by no means a full-on i18n solution, but it does help make customizing theme text a bit easier.

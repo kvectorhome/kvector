@@ -15,8 +15,8 @@ categories:
 tags:
   - catalog
   - now-casting
-  - ml (machine-learning)
-  - dl (deep-learning)
+  - machine-learning
+  - deep-learning
 ---
 
 ## ML/DL 기반 시계열 지표 나우-캐스팅

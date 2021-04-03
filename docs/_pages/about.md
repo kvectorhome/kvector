@@ -4,9 +4,7 @@ title: "소개"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"
-  actions:
-    - label: "Learn more"
-      url: /catalog/
+
 excerpt: "we help investors focus signal over noise"
 layouts_gallery:
   - url: /assets/images/bio_simonpark_with.png
