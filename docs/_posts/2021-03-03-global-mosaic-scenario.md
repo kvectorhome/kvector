@@ -1,6 +1,6 @@
 ---
 permalink: /mosaic/
-title: "Global-mosaic scenario"
+title: "모자이크 이론 기반 시나리오 분석"
 header:
   overlay_image: /assets/mm-global-currency.jpg
   caption: "unsplash"

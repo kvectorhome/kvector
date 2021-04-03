@@ -1,6 +1,6 @@
 ---
 permalink: /now-casting/
-title: "Now-casting indicators"
+title: "ML/DL 기반 시계열 지표 나우-캐스팅"
 header:
   overlay_image: /assets/mm-laser-web.jpg
   caption: "unsplash"

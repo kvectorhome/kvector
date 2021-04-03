@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "소개 : About"
+title: "About"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"
@@ -51,6 +51,15 @@ toc: true
 
 우리는 글로벌 데이터베이스 구축과 데이터 애널리틱스 기술의 내재화로 고객이 신속하고 정확한 의사결정을 할 수 있도록 돕고 금융투자에서 고객의 성공을 우선으로 여깁니다 <br/>
 
+{% capture fig_img %}
+![laser-web]({{ "/assets/mm-bank-building.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption></figcaption>
+</figure>
+
 ---
 
 
@@ -75,6 +84,14 @@ toc: true
 - 과학적 사고에 기반한 의심(Scientific skepticism)과 수학의 논리적 엄격성을 이해하는, 이를 통해 항상 최고의 합리적 결론에 도달하고자 노력하는 인재와 함께 합니다 <br/>
 - 항상 미래는 생각과 다르게 전개될 수 있다는 유연한 생각으로 항상 주위와 소통하고 필요한 협력을 할 줄 아는 인재와 함께 합니다 <br/>
 
+{% capture fig_img %}
+![idea-board]({{ "/assets/mm-idea-board.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption></figcaption>
+</figure>
 
 ### Products & Services
 
@@ -107,7 +124,7 @@ toc: true
 
 ---
 
-e-mail : help@kvectorhome.com (help@kvector.co.kr)
+e-mail : support@kvector.co.kr
 
 ---
 Kvector is x-RA leader toward global presence

@@ -1,5 +1,5 @@
 ---
-title: "Notice"
+title: "최상위글"
 date: 2021-12-31
 categories:
   - Post

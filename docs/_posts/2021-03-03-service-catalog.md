@@ -1,6 +1,6 @@
 ---
 permalink: /catalog/
-title: "Service catalog"
+title: "서비스 카탈로그"
 header:
   overlay_image: /assets/mm-sky-night.jpg
   caption: "unsplash"

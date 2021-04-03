@@ -1,6 +1,6 @@
 ---
 permalink: /feature/
-title: "Featured-factor portfolio"
+title: "피처 엔지니어링 기반 팩터 포트폴리오"
 header:
   overlay_image: /assets/mm-highway.jpg
   caption: "unsplash"
