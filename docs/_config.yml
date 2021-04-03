@@ -99,16 +99,16 @@ author:
       url: "http://kvectorhome.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "http://twitter.com/kvectorhome"
+      url: "https://twitter.com/kvectorhome"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "http://facebook.com/kvectorhome"
+      url: "https://facebook.com/kvectorhome"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "http://kvectorhome.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/kvectorhome"
+      url: "https://instagram.com/kvectorhome"
 
 
 # Site Footer
@@ -116,16 +116,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "http://twitter.com/kvectorhome"
+      url: "https://twitter.com/kvectorhome"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "http://facebook.com/kvectorhome"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "http://kvectorhome.com"
+      url: "https://facebook.com/kvectorhome"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kvectorhome"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/kvectorhome"
+      url: "https://instagram.com/kvectorhome"
 
 
 # Reading Files
