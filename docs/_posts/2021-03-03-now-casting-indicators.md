@@ -13,9 +13,10 @@ toc: true
 categories:
   - Post
 tags:
+  - catalog
   - now-casting
-  - time-series
-  - indicators
+  - ml (machine-learning)
+  - dl (deep-learning)
 ---
 
 ## ML/DL 기반 시계열 지표 나우-캐스팅

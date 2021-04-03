@@ -15,6 +15,7 @@ categories:
 tags:
   - mosaic
   - scenario
+  - catalog
 ---
 
 ## 모자이크 이론 기반 시나리오 분석

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "소개"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"

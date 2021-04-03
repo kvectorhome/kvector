@@ -357,14 +357,14 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-.archive__item-teaser > img {
+.archive__item-teaser img {
   filter:grayscale(100%);          /*썸네일 흑백 필터*/
   -webkit-filter: blur(5px);
   filter: blur(5px);
 }
 
 .img_hover img:hover {
-    /* cursor: pointer; */
+    cursor: pointer;
     -webkit-transform:scale(1.1);   /* Chrome */
     -moz-transform:scale(1.1);      /* FireFox */
     -o-transform:scale(1.1);        /* Opera */
