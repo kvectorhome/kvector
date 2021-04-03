@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="974343e1-b28d-41eb-a6ea-be1be6c12f53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/08-ui-text.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_docs/08-ui-text.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_pages/year-archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_pages/year-archive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-03-now-casting-indicators.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-03-now-casting-indicators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2021-03-04-notice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_posts/2021-03-04-notice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +46,7 @@
       <workItem from="1617197405034" duration="11440000" />
       <workItem from="1617279705312" duration="1291000" />
       <workItem from="1617282103926" duration="6137000" />
-      <workItem from="1617423820620" duration="16194000" />
+      <workItem from="1617423820620" duration="17513000" />
     </task>
     <servers />
   </component>

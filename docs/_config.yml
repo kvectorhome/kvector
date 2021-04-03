@@ -52,7 +52,7 @@ algolia:
   application_id         : IG0B24NY11       # YOUR_APPLICATION_ID
   index_name             : dev_kvector      # YOUR_INDEX_NAME
   search_only_api_key    : 645b57fadb193d50cf6d2fccadeab5d1 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  powered_by             : false # true (default), false
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
 
@@ -99,16 +99,16 @@ author:
       url: "http://kvectorhome.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/kvectorhome"
+      url: "http://twitter.com/kvectorhome"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/kvectorhome"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "http://kvectorhome.com"
+      url: "http://facebook.com/kvectorhome"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "http://kvectorhome.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kvectorhome"
+      url: "http://instagram.com/kvectorhome"
 
 
 # Site Footer
@@ -116,16 +116,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/kvectorhome"
+      url: "http://twitter.com/kvectorhome"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/kvectorhome"
+      url: "http://facebook.com/kvectorhome"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://kvectorhome.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kvectorhome"
+      url: "http://instagram.com/kvectorhome"
 
 
 # Reading Files
