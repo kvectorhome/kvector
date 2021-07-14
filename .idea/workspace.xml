@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="974343e1-b28d-41eb-a6ea-be1be6c12f53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_archive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +50,14 @@
       <workItem from="1617197405034" duration="11440000" />
       <workItem from="1617279705312" duration="1291000" />
       <workItem from="1617282103926" duration="6137000" />
-      <workItem from="1617423820620" duration="24710000" />
+      <workItem from="1617423820620" duration="38180000" />
+      <workItem from="1617619422979" duration="7796000" />
+      <workItem from="1618831854663" duration="10000" />
+      <workItem from="1619240104876" duration="6000" />
+      <workItem from="1623207501358" duration="21000" />
+      <workItem from="1623218472199" duration="9000" />
+      <workItem from="1623499236810" duration="590000" />
+      <workItem from="1626245472844" duration="10000" />
     </task>
     <servers />
   </component>
