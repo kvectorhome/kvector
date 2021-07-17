@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "소개"
+title: "소개 : 케이벡터"
 header:
   overlay_image: /assets/mm-water-wave-large.jpg
   caption: "unsplash"
@@ -10,19 +10,19 @@ layouts_gallery:
   - url: /assets/images/bio_simonpark_with.png
     image_path: /assets/images/bio_simonpark_with.png
     alt: "CEO 박진홍, CFA"
-    width: 100
+    width: 85
   - url: /assets/images/bio_jaymo_with.png
     image_path: /assets/images/bio_jaymo_with.png
     alt: "CIO 모지환, CFA"
-    width: 100
+    width: 85
   - url: /assets/images/bio_attkang_with.png
     image_path: /assets/images/bio_attkang_with.png
     alt: "COO 강인철, 변호사"
-    width: 100
+    width: 85
   - url: /assets/images/bio_proflee_with.png
     image_path: /assets/images/bio_proflee_with.png
-    alt: "기술고문 이원종 교수"
-    width: 100
+    alt: "CTO 이원종 교수"
+    width: 85
     
 last_modified_at: 2021-03-03T00:00:00-00:00
 toc: true
@@ -98,11 +98,10 @@ toc: true
 자산관리 및 운용에 특화된 로보-애널리스트(x-RA) 서비스를 제공합니다 <br/>
 
 1. 글로벌 알파 투자 및 인핸스드 베타 플레이를 위한 시그널 분석 <br/>
-2. 포트폴리오 구축/운용에 필요한 팩터 분석 <br/>
+2. 고객 맞춤형 포트폴리오 구축/운용에 필요한 팩터 분석 <br/>
 3. 재무목적 설계를 위한 자산배분 전략 <br/>
 
-
-| 특화 서비스                                            | 설명                                 |
+| 특화 서비스                                              | 설명                                 |
 | ------------------------------------------------------ | ------------------------------------ |
 | [Now-casting indicators][Now-casting indicators]       | ML/DL 기반 시계열 지표 나우-캐스팅   |
 | [Global-mosaic scenario][Global-mosaic scenario]       | 모자이크 이론 기반 시나리오 분석     |
