@@ -11,10 +11,6 @@ layouts_gallery:
     image_path: /assets/images/bio_simonpark_with.png
     alt: "CEO 박진홍, CFA"
     width: 85
-  - url: /assets/images/bio_jaymo_with.png
-    image_path: /assets/images/bio_jaymo_with.png
-    alt: "CIO 모지환, CFA"
-    width: 85
   - url: /assets/images/bio_attkang_with.png
     image_path: /assets/images/bio_attkang_with.png
     alt: "COO 강인철, 변호사"
